@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bashkirov_opisanie</string>
+    <string name="strelka">TextView</string>
+    <string name="opisanie">Описание</string>
+    <string name="clear">Очистить</string>
+    <string name="backtema">TODO</string>
+    <string name="vector">TODO</string>
+    <string name="sohranit">Button</string>
+    <string name="sohran">Сохранить</string>
+    <string name="ochistit">очистить</string>
+    <string name="sohr">Сохранить</string>
+    <string name="ochist">Очистить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Svyazilabel">Связи</string>
+</resources>

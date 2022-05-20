@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.soldatovconnections.Fragment1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="128dp"
+        android:layout_height="35dp"
+        android:layout_marginTop="166dp"
+        android:gravity="left"
+        android:text="Идентфикатор" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="128dp"
+        android:layout_height="35dp"
+        android:gravity="left"
+        android:layout_marginTop="200dp"
+        android:text="IP - адрес" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="128dp"
+        android:layout_height="35dp"
+        android:gravity="left"
+        android:layout_marginTop="240dp"
+        android:text="Порт данных" />
+</FrameLayout>
