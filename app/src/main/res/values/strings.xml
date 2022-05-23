@@ -13,4 +13,20 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Svyazilabel">Связи</string>
+    <string name="identyficateLabel">Идентфикатор</string>
+    <string name="iplabel">IP-адрес</string>
+    <string name="DataPortlabel">Порт данных</string>
+    <string name="SoundPortlabel">Порт звука</string>
+    <string name="AltIPlabel">Альт.IP-адрес</string>
+    <string name="VozvratLabel">Возврат (мин.)</string>
+    <string name="EditBtn">Изменить</string>
+    <string name="Deletebtn">Удалить</string>
+    <string name="numerlabel">Номер</string>
+    <string name="Vozvratlabel">Возврат (мин.)</string>
+    <string name="Identificatelabel">Идентфикатор</string>
+    <string name="dataportlabel">Порт данных</string>
+    <string name="voiceportlabel">Порт звука</string>
+    <string name="vozvratlbl">Возврат (мин.)</string>
+    <string name="numbiplabel">Ном.IP</string>
+    <string name="iplabel2">IP-адрес</string>
 </resources>
